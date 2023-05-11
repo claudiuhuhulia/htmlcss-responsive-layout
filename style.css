@@ -221,3 +221,29 @@ padding-left: 4px;
     color: white;
     padding-right: 5px;
 }
+.get-started{
+    text-align: center;
+    color: #cbc9f1;
+    max-width: 75%;
+}
+.get-started h2{
+    color: white;
+    font-size: 2rem;
+}
+.get-started h1{
+    font-size: 3rem;
+    color: #fdc15f;
+    padding: 20px 0 0px 0;
+}
+.get-started p{
+    color: white;
+}
+.btn-get a{
+  background-color: white;
+  border-radius: 30px;
+  font-size: 1.3rem;
+  color: #9593e6;
+  letter-spacing: .2rem;
+  padding: 15px 65px;
+  font-weight: bold;
+}
