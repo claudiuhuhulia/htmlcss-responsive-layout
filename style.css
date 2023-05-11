@@ -257,3 +257,22 @@ footer{
 footer a{
     color: blue;
 }
+
+@media screen and (min-width:768px){
+    .flex{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+.card{
+    flex-basis: 64%;
+    margin-top: 0px;
+}
+.small{
+    flex-basis: 30%;
+}
+.card img{
+    width: 50%;
+}
+}
+
