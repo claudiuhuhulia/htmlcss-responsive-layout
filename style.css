@@ -95,10 +95,7 @@ a > i{
     border-radius: 50%;
 }
 .btn-down{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 .btn-down a i{
@@ -157,4 +154,27 @@ padding-left: 4px;
     color: white;
     text-align: center;
     padding-bottom: 20px;
+}
+.benefits{
+    background-color: white;
+}
+.benefits h2{
+    color: #9593e6;
+    padding-top: 20px;
+}
+.benefits p{
+    font-weight: 400;
+}
+.benefits h1{
+    font-size: 3rem;
+    color: #9593e6;
+}
+.more a{
+    border-radius: 40px;
+    padding: 10px 50px
+}
+.ben > h1{
+    text-align: center;
+    padding: 20px 0px;
+    color: white;
 }
