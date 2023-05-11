@@ -229,6 +229,7 @@ padding-left: 4px;
 .get-started h2{
     color: white;
     font-size: 2rem;
+    margin-top: 20px;
 }
 .get-started h1{
     font-size: 3rem;
@@ -246,4 +247,13 @@ padding-left: 4px;
   letter-spacing: .2rem;
   padding: 15px 65px;
   font-weight: bold;
+}
+.get-started{
+    padding: 60px 0px;
+}
+footer{
+    background-color: #333333;
+}
+footer a{
+    color: blue;
 }
