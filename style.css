@@ -31,7 +31,7 @@ a > i{
     font-weight: bold;
 }
 p{
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 30px;
     line-height: 27px;
     color: #5a6e7f
@@ -54,4 +54,11 @@ a{
 }
 a > i{
     padding-right: 5px;
+}
+.small{
+    text-align: center;
+}
+.small i{
+    margin-bottom: 20px;
+    color: #0084fd;
 }
