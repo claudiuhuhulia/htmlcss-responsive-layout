@@ -18,6 +18,9 @@ body{
 a > i{
     color: white;
 }
+a{
+    text-decoration: none;
+}
 .container{
     max-width: 85%;
     margin: 0 auto;
@@ -177,4 +180,44 @@ padding-left: 4px;
     text-align: center;
     padding: 20px 0px;
     color: white;
+}
+.ben{
+    padding-bottom: 60px;
+}
+.about-us h1{
+    padding-top: 40px;
+    color: #9593e6;
+    font-size: 3rem;
+}
+.about-us p{
+    color: black;
+    font-size: 1.3rem;
+    line-height: 2.5rem;
+}
+#member{
+    background-image: url(img/about.jpg);
+    margin-top: 60px;
+}
+.quotation{
+    font-size: 14rem;
+    position: absolute;
+    color: #9593e6;
+    right: 35%;  
+}
+.about-us h2{
+    font-size: 2rem;
+    color:#9593e6;
+    padding-top: 20px;
+}
+.linkedin a{
+    color: white;
+    border-radius: 30px;
+    padding: 7px 13px;
+}
+.linkedin{
+    margin-top: 20px;
+}
+.linkedin a i{
+    color: white;
+    padding-right: 5px;
 }
