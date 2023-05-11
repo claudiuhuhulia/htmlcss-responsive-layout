@@ -123,13 +123,10 @@ padding-left: 4px;
 .team{
     background-color: #9593e6;
     display: flex;
-    justify-content: center;
+    align-items: center;
     flex-direction: column;
 }
-.team img{
-    margin-top: 0;
-    object-fit: contain;
-}
+
 .circle{
     width: 250px;
     height: 250px;
